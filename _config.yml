@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ben Tupper"
-  avatar           : "profile.png"
+  avatar           : "Swabbie.jpeg" # "profile.png"
   #bio              : "Your biography for the left-hand sidebar"
   location         : "Casco Bay, Maine"
   employer         : "Bigelow Laboratory for Ocean Sciences"
