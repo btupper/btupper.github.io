@@ -14,6 +14,6 @@ Most of my work involves developing software workflows that include data acquisi
 
 ## The Tandy Center 2021 Cruise
 
-Colleagues, rain, homemade baklava and a weatherproof ukulele... all in the name of science! From left, 
+Colleagues, rain, homemade baklava and a weatherproof ukulele... all in the name of science! From left: Kenny, Johnathan, Remi (hiding), Kyle (baklava master), Nick, Camille and Rene.  Missing: Jace and Ben
 
 ![TCOF](images/TCOF-cruise-2021.jpeg)
