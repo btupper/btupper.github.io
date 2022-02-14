@@ -2,7 +2,11 @@
 main:
 #  - title: "Publications"
 #    url: /publications/
-
+  - title: "Coding"
+    url: /coding/
+  - title: "Resume-Publications"
+    url: /cv/
+    
 #  - title: "Talks"
 #    url: /talks/    
 #
@@ -15,8 +19,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 #    
-  - title: "Resume-Publications"
-    url: /cv/
+
 #    
 #  - title: "Guide"
 #    url: /markdown/
