@@ -3,11 +3,12 @@ main:
 #  - title: "Publications"
 #    url: /publications/
 
-  - title: "Coding"
-    url: /coding/
-    
   - title: "Resume-Publications"
     url: /cv/
+    
+  - title: "Coding"
+    url: /coding/
+  
     
 #  - title: "Talks"
 #    url: /talks/    
